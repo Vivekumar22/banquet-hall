@@ -9,6 +9,6 @@ This project is a fully responsive website designed for banquet halls and event 
 
 📱 Mobile-friendly, modern UI/UX design
 
-⚡ Built with Next.js / React / Tailwind CSS for performance and scalability
+⚡ Built with  React / Tailwind CSS for performance and scalability
 
 📩 Contact form for direct communication
